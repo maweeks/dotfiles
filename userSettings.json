@@ -1,0 +1,28 @@
+{
+    "codespaces.accountProvider": "GitHub",
+    "codespaces.defaultExtensions": [
+        "amazonwebservices.aws-toolkit-vscode",
+        "coenraads.bracket-pair-colorizer-2",
+        "davidanson.vscode-markdownlint",
+        "eamodio.gitlens",
+        "esbenp.prettier-vscode",
+        "formulahendry.auto-rename-tag",
+        "GitHub.vscode-pull-request-github",
+        "ms-azuretools.vscode-docker",
+        "ms-vsliveshare.vsliveshare",
+        "ms-vsonline.vsonline",
+        "oderwat.indent-rainbow",
+        "richie5um2.vscode-sort-json",
+        "shardulm94.trailing-spaces",
+        "shd101wyy.markdown-preview-enhanced",
+        "sonarsource.sonarlint-vscode",
+        "streetsidesoftware.code-spell-checker",
+        "visualstudioexptteam.vscodeintellicode",
+        "tyriar.sort-lines"
+    ],
+    "codespaces.featureSet": "stable",
+    "dotfiles.repository": "https://github.com/maweeks/dotfiles.git",
+    "editor.renderWhitespace": "all",
+    "git.confirmSync": false,
+    "workbench.colorTheme": "Monokai"
+}
