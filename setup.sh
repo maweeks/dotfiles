@@ -1,5 +1,5 @@
 #!/bin/bash
-
+mkdir asdf
 extensions=("alexkrechik.cucumberautocomplete"\
             "ChakrounAnas.turbo-console-log"\
             "CoenraadS.bracket-pair-colorizer-2"\
@@ -39,3 +39,5 @@ if [[ $(code --help) ]]; then
     fi
   done
 fi
+
+mkdir fdsa
