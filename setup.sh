@@ -1,5 +1,8 @@
 #!/bin/bash
 mkdir asdf
+code --install-extension CoenraadS.bracket-pair-colorizer-2
+code --install-extension eamodio.gitlens
+code --install-extension formulahendry.auto-rename-tag
 extensions=("alexkrechik.cucumberautocomplete"\
             "ChakrounAnas.turbo-console-log"\
             "CoenraadS.bracket-pair-colorizer-2"\
