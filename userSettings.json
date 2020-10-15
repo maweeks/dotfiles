@@ -24,5 +24,6 @@
     "dotfiles.repository": "https://github.com/maweeks/dotfiles.git",
     "editor.renderWhitespace": "all",
     "git.confirmSync": false,
-    "workbench.colorTheme": "Monokai"
+    "workbench.colorTheme": "Monokai",
+    "git.autofetch": true
 }
